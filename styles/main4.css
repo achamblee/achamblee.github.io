@@ -30,7 +30,6 @@ header h2 {
 header img {
     float: left;
     margin-left: 1em;
-    padding-left: 1em;
     background-position: left top;
 }
 .shadow {

@@ -79,4 +79,5 @@ p.fixed {
     border: 3px solid darkgreen;
     background-color: lightgreen;
     padding: 10;
+    position: bottom;
 }

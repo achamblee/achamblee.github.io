@@ -78,6 +78,6 @@ p.fixed {
     right: 0;
     border: 3px solid darkgreen;
     background-color: lightgreen;
-    background-position: left bottom;
+    padding: 100;
     height: 300px;
 }

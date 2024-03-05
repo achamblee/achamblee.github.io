@@ -80,4 +80,5 @@ p.fixed {
     background-color: lightgreen;
     padding: 10;
     background-position: left bottom;
+    height: 300px;
 }

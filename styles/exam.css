@@ -16,3 +16,9 @@ article p::first-letter {
     font-size: 3em;
     font-weight: bold;
 }
+article ol {
+    list-style-type: upper-roman;
+}
+aside ul {
+    list-style-type: square;
+}

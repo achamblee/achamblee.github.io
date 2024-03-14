@@ -9,7 +9,9 @@
     background-color: blue;
     color: white;
     font-weight: bold;
-    border-right: 2px solid white; }
+    border-right: 2px solid white;
+}
+#nav_menu ul li a.lastitem { border-right: none; }	
 article p::first-letter {
     font-size: 3em;
     font-weight: bold;

@@ -17,7 +17,7 @@ article p::first-letter {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
-article ol {
+aside ol {
     list-style-type: upper-roman;
 }
 aside ul {

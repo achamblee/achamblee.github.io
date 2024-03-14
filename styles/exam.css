@@ -13,7 +13,7 @@
 }
 #nav_menu ul li a.lastitem { border-right: none; }	
 article p::first-letter {
-    font-size: 1em;
+    font-size: 2em;
     font-weight: bold;
 }
 article ol {
@@ -21,4 +21,15 @@ article ol {
 }
 aside ul {
     list-style-type: square;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 90%;
+    background-color: white;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
 }

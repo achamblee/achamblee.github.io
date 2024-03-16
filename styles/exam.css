@@ -42,3 +42,8 @@ aside {
     padding: 1px;
     position: fixed;
 }
+article {
+    width: 75%;
+    column-count: 2;
+    column-rule: dotted blue;
+}

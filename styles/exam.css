@@ -51,3 +51,6 @@ article {
 footer {
     border-top: 2px solid blue;
 }
+article h2 {
+    color: blue;
+}

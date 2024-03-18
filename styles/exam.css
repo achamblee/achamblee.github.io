@@ -47,9 +47,11 @@ article {
     column-count: 3;
     column-rule: dotted blue;
     border-top: 2px solid blue;
+    padding-top: 1em;
 }
 footer {
     border-top: 2px solid blue;
+    text-align: center;
 }
 article h2 {
     color: blue;
@@ -59,4 +61,7 @@ article h1 {
 }
 article h3 {
     font-style: bold;
+}
+article img {
+    float: left;
 }

@@ -40,7 +40,7 @@ aside {
     float: right;
     background-color: lightblue;
     border-color: 3px solid blue;
-    padding: 10px;
+    padding-right: 5px;
     position: fixed;
 }
 article {

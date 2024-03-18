@@ -39,7 +39,7 @@ aside {
     width: 20%;
     float: right;
     background-color: lightblue;
-    border-color: 3px solid blue;
+    border: 3px solid blue;
     padding-right: 5px;
     position: fixed;
 }

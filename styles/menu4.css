@@ -16,7 +16,7 @@
 article {
     clear: left
 }
-article ol {
+aside ol {
     list-style-type: upper-roman;
 }
 aside ul {

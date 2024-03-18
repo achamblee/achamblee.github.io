@@ -42,6 +42,7 @@ aside {
     border: 3px solid blue;
     padding-right: 5px;
     position: fixed;
+    right: 0;
 }
 article {
     clear: left;

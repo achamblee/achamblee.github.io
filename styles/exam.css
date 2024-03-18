@@ -44,6 +44,7 @@ aside {
     position: fixed;
 }
 article {
+    clear: left;
     width: 75%;
     column-count: 3;
     column-rule: dotted blue;
@@ -66,4 +67,6 @@ article h3 {
 }
 article img {
     float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
 }

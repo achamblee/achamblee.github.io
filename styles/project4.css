@@ -45,7 +45,7 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    border-top: 2px solid maroon;
+    border-top: 3px solid maroon;
 }
 article h3 {
     column-span: all;
@@ -83,7 +83,4 @@ p.fixed {
     border: 3px solid darkgreen;
     background-color: lightgreen;
     padding: 20px;
-}
-header {
-    border-bottom: 2px solid maroon;
 }

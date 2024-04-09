@@ -31,6 +31,6 @@ table.second thead tr:first-child{
 table.third th, table.third td {
     vertical-align: top;
 }
-tr:first-child, tr:nth-child(), tr:last-child {
+tr:first-child {
     border-top: 2px solid orangered;
 }

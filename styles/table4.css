@@ -28,6 +28,10 @@ table.second th, table.second td {
 table.second thead tr:first-child{     
     border-bottom: 2px solid purple;
 }
+table.third {
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
+}
 table.third th, table.third td {
     vertical-align: top;
 }

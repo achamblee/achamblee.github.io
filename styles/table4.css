@@ -32,6 +32,10 @@ table.third {
     border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
 }
+table.third thead {
+    border-bottom: 2px solid orangered;
+    background-color: lightgreen;
+} 
 table.third th, table.third td {
     vertical-align: top;
 }

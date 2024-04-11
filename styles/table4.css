@@ -42,3 +42,6 @@ table.third th, table.third td {
 tr:first-child {
     border-top: 2px solid orangered;
 }
+table.third thead tr {
+    border-bottom: 2px solid orangered;
+}

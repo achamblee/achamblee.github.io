@@ -31,11 +31,12 @@ table.second thead tr:first-child{
 table.third {
     border-top: 2px solid orangered;
     border-bottom: 2px solid orangered;
+    border-collapse: collapse;
+
 }
 table.third thead {
     border-bottom: 2px solid orangered;
     background-color: lightgreen;
-    border-collapse: collapse;
 } 
 table.third th, table.third td {
     vertical-align: top;

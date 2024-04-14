@@ -39,9 +39,6 @@ table.third thead {
 table.third th, table.third td {
     vertical-align: top;
 }
-tr:first-child {
-    border-top: 2px solid orangered;
-}
 table.third thead tr {
     border-bottom: 2px solid orangered;
 }

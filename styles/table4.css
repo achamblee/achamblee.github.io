@@ -35,6 +35,7 @@ table.third {
 table.third thead {
     border-bottom: 2px solid orangered;
     background-color: lightgreen;
+    border-collapse: collapse;
 } 
 table.third th, table.third td {
     vertical-align: top;

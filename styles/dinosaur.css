@@ -4,3 +4,6 @@ ul.dash {
 header h1 {
     text-align: center;
 }
+article {
+    width: 70%;
+}

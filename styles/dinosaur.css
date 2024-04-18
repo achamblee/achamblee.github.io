@@ -1,3 +1,6 @@
 ul.dash {
     list-style-type: none;
 }
+header h1 {
+    text-align: center;
+}

@@ -16,3 +16,6 @@ article {
 article p {
     width: 250px;
 }
+aside {
+    float: top right;
+}

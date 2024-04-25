@@ -13,3 +13,6 @@ article {
 .whatabout {
     width: 100px;
 }
+article p {
+    width: 150px;
+}

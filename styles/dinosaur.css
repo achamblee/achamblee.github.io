@@ -10,3 +10,6 @@ article p {
 aside {
     float: right;
 }
+body {
+    background-color: darkgreen;
+}

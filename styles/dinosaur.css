@@ -7,6 +7,9 @@ header h1 {
 article p {
     width: 250px;
 }
+article {
+    text-align: center;
+}
 body {
     background-color: darkgreen;
     color: white;

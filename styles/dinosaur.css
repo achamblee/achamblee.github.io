@@ -14,3 +14,6 @@ body {
     background-color: darkgreen;
     color: white;
 }
+caption {
+    caption-side: bottom;
+}

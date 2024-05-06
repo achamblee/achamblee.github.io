@@ -6,6 +6,7 @@ header h1 {
 }
 article p {
     width: 250px;
+    text-align: center;
 }
 article {
     text-align: center;

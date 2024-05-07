@@ -4,11 +4,11 @@ ul.dash {
 header h1 {
     text-align: center;
 }
-article p {
+main p {
     width: 250px;
     text-align: center;
 }
-article {
+main {
     text-align: center;
 }
 body {

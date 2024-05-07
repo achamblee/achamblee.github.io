@@ -16,3 +16,6 @@ body {
 figure {
     text-align: center;
 }
+figure.phylogeny {
+    margin: auto;
+}

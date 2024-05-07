@@ -8,6 +8,9 @@ main p {
     width: 250px;
     text-align: center;
 }
+main {
+    margin: auto;
+}
 body {
     background-color: darkgreen;
     color: white;

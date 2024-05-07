@@ -26,4 +26,5 @@ figure.phylogeny {
 h3 p {
     text-align: center;
     margin: auto;
+    position: absolute;
 }

@@ -15,7 +15,8 @@ body {
     background-color: darkgreen;
     color: white;
     text-align: center;
-    margin: auto;
+    margin-left: 50%;
+    margin-right: 50%;
 }
 figure {
     text-align: center;
@@ -25,7 +26,6 @@ figure.phylogeny {
 }
 h3 p {
     text-align: center;
-    margin: auto;
     position: absolute;
     margin-left: 50%;
     margin-right: 50%;

@@ -22,6 +22,15 @@ figure {
 figure.phylogeny {
     margin: auto;
 }
+figure.chickenfurcula {
+    margin: auto;
+}
+figure.velofurcula {
+    margin: auto;
+}
+figure.trexfurcula {
+    margin: auto;
+}
 h3 p {
     text-align: center;
     position: absolute;

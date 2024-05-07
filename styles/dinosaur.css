@@ -23,3 +23,6 @@ figure {
 figure.phylogeny {
     margin: auto;
 }
+p {
+    text-align: center;
+}
